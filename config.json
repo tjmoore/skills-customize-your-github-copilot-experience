@@ -72,6 +72,25 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "file-io-in-python",
+      "title": "File I/O in Python",
+      "description": "Reading, writing, and managing files in Python",
+      "path": "assignments/file-io-in-python",
+      "dueDate": "2026-06-26",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Sample Data",
+          "file": "data.txt",
+          "type": "txt"
+        }
+      ]
     }
   ]
 }
